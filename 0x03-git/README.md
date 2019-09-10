@@ -1,0 +1,1 @@
+This project is made to learn how to use version control system git 
