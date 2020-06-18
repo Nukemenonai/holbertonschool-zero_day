@@ -1,1 +1,5 @@
-#This is a markdown text test a test again and this is for the third test of the fourth project: git 
+# Holberton School Zero_Day
+
+This is a repository to learn the basics of the emacs, vim and git. 
+
+<1087@holbertonschool.com>
